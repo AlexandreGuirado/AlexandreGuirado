@@ -1,3 +1,4 @@
+Hi there, I'm Alexandre Guirado 👋🏻
 <a href="https://github.com/alexandreguirado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark" />
 </a>
