@@ -1,5 +1,10 @@
 ### Hi there 👋
-<img height = "180em" src = " https://github-readme-stats.vercel.app/api?username=Alexandreguirado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true " />
+
+[![Alexandre Guirado GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/alexandreguirado/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreguirado&layout=compact)](https://github.com/alexandreguirado/github-readme-stats)
+
+
 <!--
 **AlexandreGuirado/AlexandreGuirado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
