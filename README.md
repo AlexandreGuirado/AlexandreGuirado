@@ -1,11 +1,7 @@
-[![Alexandre Guirado GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/alexandreguirado/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreguirado&layout=compact)](https://github.com/alexandreguirado/github-readme-stats)
-
-<a href="https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark">
+<a href="https://github.com/alexandreguirado/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreguirado&layout=compact)](https://github.com/alexandreguirado/github-readme-stats">
+<a href=https://github.com/anuraghazra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreguirado&layout=compact"/>
 </a>
 
