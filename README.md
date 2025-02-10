@@ -15,13 +15,29 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+  <a href="https://www.scrum.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum.png" alt="Scrum" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Azure_DevOps_Logo.svg/1200px-Azure_DevOps_Logo.svg.png" alt="DevOps" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Xamarin-logo.svg" alt="Xamarin" width="40" height="40"/>
+  </a>
+</p>
 
 <a href="https://github.com/alexandreguirado">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandreguirado&hide=contribs,prs&show_icons=true&theme=dark" />
