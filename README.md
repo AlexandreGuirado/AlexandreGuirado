@@ -28,15 +28,6 @@
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
   </a>
-  <a href="https://www.scrum.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum.png" alt="Scrum" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-us/solutions/devops/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Azure_DevOps_Logo.svg/1200px-Azure_DevOps_Logo.svg.png" alt="DevOps" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Xamarin-logo.svg" alt="Xamarin" width="40" height="40"/>
-  </a>
 </p>
 
 <a href="https://github.com/alexandreguirado">
